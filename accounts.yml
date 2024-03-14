@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to ZettaBank accounts related APIs"
   contactDetails:
-    name: "Akash - Developer"
+    name: "Bharath- Developer"
     email: "akash.k@zettabank.com"
   onCallSupport:
     - (40) 123-45678
